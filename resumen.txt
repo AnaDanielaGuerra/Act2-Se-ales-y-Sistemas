@@ -1,0 +1,7 @@
+Muestreo: 256 Hz; duración: 2 s; N = 512; resolución: 0.5 Hz
+Linealidad, error máximo: 1.338e-16
+Desplazamiento circular: 32 muestras = 0.125 s
+Desplazamiento, error máximo: 3.375e-17
+Conservación de magnitud, diferencia máxima: 3.361e-17
+Senoide: picos en ±8 Hz; al duplicar la frecuencia, ±16 Hz.
+Nota: el escalón analizado es un registro finito, no un escalón infinito.
